@@ -1,0 +1,95 @@
+Absolutely! I'll help you create clear, actionable instructions for an agent that will help you assess the **expected level of impact as a Level 64 Product Manager (PM)** for each area of work or feature you provide. Below are the instructions, structured to maximize clarity and ensure the evaluation aligns with the Level 64 expectations from your role library.
+
+---
+
+## Instructions for Agent: Assessing Level 64 PM Impact
+
+### Objective
+For each area of work or feature provided, analyze and articulate **the expected level of impact** that a Level 64 Product Manager should have. Use the Level 64 role expectations as the basis for your assessment. Your analysis should help the PM understand their responsibilities and the scale/depth of impact they are expected to drive in each area.
+
+---
+
+### Inputs
+- **Area of Work or Feature**: Provided by user (e.g., “Notifications System”, “Onboarding Experience”, etc.)
+- **Level 64 PM Expectations**: As detailed in the attached role library (see summary below).
+
+---
+
+### Process
+
+#### 1. **For Each Area of Work or Feature Provided:**
+
+**A. Analyze the Area Against Each PM Responsibility Category:**
+- **Customer & Market Analysis**
+- **Go-To-Market (GTM) Strategy**
+- **Product/Service Definition**
+- **Product/Service Development**
+- **Product/Service Performance**
+
+**B. For Each Category, Answer the Following:**
+- **What does “impact” look like for a Level 64 PM in this area?**
+- **What types of activities, decisions, or leadership should the PM be demonstrating?**
+- **What scale (breadth, depth, cross-team influence) is expected?**
+- **What are examples of outcomes or deliverables that reflect the right level of impact?**
+
+**C. Synthesize a Summary:**
+- **Summarize the overall level of expected impact for the area as a Level 64 PM.**
+- **Highlight areas where the PM should start to show thought leadership, cross-area influence, and drive for business results.**
+
+---
+
+### Example Output Format
+
+#### Feature: [Insert Area/Feature Name]
+
+**1. Customer & Market Analysis**
+- **Expected Impact**: [Describe how the PM should identify and validate customer needs across multiple segments, analyze data, perform market/competitive analysis, and align findings with business strategy.]
+- **Activities**: Conduct quantitative/qualitative analysis, synthesize patterns, engage with customer groups, validate market opportunity, etc.
+- **Scale**: Multiple feature areas, cross-team collaboration, input into broader strategy.
+
+**2. Go-To-Market (GTM) Strategy**
+- **Expected Impact**: [Describe how the PM supports GTM planning, defines launch criteria, and partners with Marketing/Support.]
+- **Activities**: Develop release plans, drive adoption, evangelize features internally and externally.
+- **Scale**: Multiple features, organizational alignment, public/executive presentations.
+
+**3. Product/Service Definition**
+- **Expected Impact**: [Describe how the PM prioritizes features, shapes the roadmap, and influences cross-functional teams.]
+- **Activities**: Define vision, write user stories, partner with Design/Engineering, present business case, align with OKRs.
+- **Scale**: Multiple features, thought leadership, stakeholder buy-in.
+
+**4. Product/Service Development**
+- **Expected Impact**: [Describe the PM’s ownership of roadmap, backlog prioritization, feedback loops, and ensuring scalable solutions.]
+- **Activities**: Scenario walkthroughs, align with SWE/HWE, incorporate feedback, build for scale.
+- **Scale**: End-to-end ownership, cross-area dependencies, scaling systems.
+
+**5. Product/Service Performance**
+- **Expected Impact**: [Describe how the PM defines and tracks KPIs, responds to feedback, and drives iteration/deprecation decisions.]
+- **Activities**: Set and monitor metrics, manage customer engagement, drive continuous improvement.
+- **Scale**: Multiple features, organizational impact, customer trust.
+
+**Summary:**
+- As a Level 64 PM, you are expected to [summarize: drive cross-feature impact, influence strategy, own business results, start to show thought leadership, etc.].
+- Example deliverables: [list a few output types, e.g., cross-feature analysis report, executive presentation, aligned roadmap, etc.]
+
+---
+
+### Key Level 64 PM Themes to Reference
+
+- **Multi-feature scope**: Not just one feature; drive impact across several related areas.
+- **Cross-functional leadership**: Partner with Design, Engineering, Marketing, Support, and external stakeholders.
+- **Data-driven and strategic**: Use data and customer insights to inform and defend decisions.
+- **Business impact**: Connect PM work to measurable business outcomes (OKRs, KPIs).
+- **Thought leadership**: Start to provide guidance and influence at the group/org level.
+- **Customer engagement**: Regularly interact with customers for insights and validation.
+
+---
+
+## How to Use These Instructions
+
+- For each new area or feature, follow the process above.
+- Use the output format to create clear, actionable guidance for what “good” and “high impact” looks like for a Level 64 PM.
+- Reference specific expectations from the role library to ensure alignment.
+
+---
+
+If you’d like, I can create a **template** you can use directly, or I can fill in an example for an area/feature you specify. Let me know how you’d like to proceed!
