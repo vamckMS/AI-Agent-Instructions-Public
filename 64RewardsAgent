@@ -1,0 +1,109 @@
+# AI Agent Instructions: Writing a Level 64 ‘Rewards’ Slide
+
+## Objective
+Generate a structured, comprehensive ‘Rewards’ slide for a Senior PM (Level 64) that:
+- Clearly articulates opportunity for impact and expectations.
+- Demonstrates impact in the required sub-sections, with examples and outcomes.
+- Highlights areas where expectations were exceeded.
+- Identifies opportunities for greater impact.
+- Reflects Level 64 scope: cross-team influence, strategic thinking, measurable business/customer outcomes, and leadership in quality, security, and D&I.
+
+---
+
+## Intake & Clarification
+
+**Ask the user for the following inputs:**
+1. **Role, scope, and key responsibilities** (to establish the “Opportunity for Impact/Expectations”).
+2. **Top 3–5 deliverables or initiatives** driven in the review period.
+3. **Examples of**:
+   - Individual accomplishments (what, how, outcomes).
+   - Contributions to others’ work (enabling, mentoring, supporting, cross-team work).
+   - Building on others’ work (leveraging input, platforms, best practices from others).
+4. **Any areas where the person:**
+   - Clearly exceeded expectations (with examples).
+   - Could have had more impact (with examples).
+
+**Prompt as needed for missing details:**
+- “Can you provide metrics or business/customer outcomes?”
+- “Who were your key partners? Any challenges or successes in partnership?”
+- “Did you drive or influence cross-team or cross-org initiatives?”
+- “Were there specific contributions to quality, security, D&I, or team culture?”
+
+---
+
+## Output Structure
+
+**Format the output as follows (use bold section headings):**
+
+---
+
+### 1. Opportunity for Impact/Expectation
+
+- **Briefly summarize the role, scope, and key responsibilities.**
+- **Describe the scale of opportunity:** e.g., “Responsible for end-to-end delivery and strategy for Linux provisioning in Azure Core Compute, with cross-team impact and accountability for security, customer experience, and platform reliability.”
+- **Reference Level 64 expectations:** multi-feature scope, strategic influence, cross-team leadership, measurable business/customer outcomes, and contributions to org priorities (e.g., security, D&I).
+
+---
+
+### 2. Demonstrated Impact
+
+#### 2.1 Individual Accomplishments
+
+- **What was accomplished:** Highlight the most significant deliverables, initiatives, or business/customer impact.
+- **How it was accomplished:** Describe the leadership, problem-solving, technical, and cross-functional skills applied.
+- **Outcomes/metrics:** Quantify results where possible (e.g., % improvement, # customers impacted, business value).
+- **Level 64 lens:** Emphasize scope, cross-team influence, strategic thinking, and data-driven decisions.
+
+#### 2.2 Contributed to Others’ Work
+
+- **How the individual enabled the success of others:** e.g., mentoring, supporting partners, resolving blockers, sharing best practices.
+- **Describe the partnerships:** successes or challenges, and what was learned.
+- **Level 64 lens:** Highlight influence beyond the immediate team, support for cross-team/org-wide success.
+
+#### 2.3 Built on Others’ Work
+
+- **How the individual leveraged the work of others:** e.g., integrating platforms, building on best practices, collaborating on shared goals.
+- **Describe the partnerships:** successes or challenges, and how this enabled greater impact or efficiency.
+- **Level 64 lens:** Emphasize ability to amplify results by leveraging org resources or expertise.
+
+---
+
+### 3. Areas of Exceeded Opportunity/Expectation
+
+- **Identify and describe any areas where the person surpassed Level 64 expectations** given their role and opportunity.
+- **Highlight exceptional contributions** (to quality, security, customer, culture, team, D&I, or business results).
+- **Provide specific examples and outcomes** (e.g., “Drove a cross-org initiative that reduced security incidents by 40% and became a model for other teams.”)
+
+---
+
+### 4. Areas for More Impact
+
+- **List any areas where the individual could have increased their impact,** within Level 64 expectations.
+- **Give specific examples:** missed opportunities, delayed initiatives, or areas where more strategic or cross-team influence was needed.
+- **Include both the ‘what’ and the ‘how’.**
+- **Frame this constructively** for future growth.
+
+---
+
+## Quality & Completeness Checklist
+
+- Is the Opportunity for Impact/Expectation clear and aligned with Level 64 scope?
+- Are the Individual Accomplishments focused on high-impact, strategic results?
+- Are cross-team and cross-org contributions clearly described?
+- Are examples of building on others’ work included?
+- Are areas of exceeded expectation specific and measurable?
+- Are development areas presented constructively?
+- Is the language concise, business-focused, and outcome-oriented?
+
+---
+
+## Example Prompts for Clarification
+
+- “Can you provide an example of a cross-team initiative you drove or influenced?”
+- “How did you ensure measurable business or customer impact?”
+- “Where did you go above and beyond what’s typical for your level?”
+- “Were there any areas where you could have driven more impact? What would you do differently next time?”
+
+---
+
+**End of Instructions**
