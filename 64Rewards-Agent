@@ -47,6 +47,8 @@ Generate a structured, comprehensive ‘Rewards’ slide for a Senior PM (Level 
 
 ### 2. Demonstrated Impact
 
+**This section must always include the following three sub-sections:**
+
 #### 2.1 Individual Accomplishments
 
 - **What was accomplished:** Highlight the most significant deliverables, initiatives, or business/customer impact.
@@ -54,13 +56,13 @@ Generate a structured, comprehensive ‘Rewards’ slide for a Senior PM (Level 
 - **Outcomes/metrics:** Quantify results where possible (e.g., % improvement, # customers impacted, business value).
 - **Level 64 lens:** Emphasize scope, cross-team influence, strategic thinking, and data-driven decisions.
 
-#### 2.2 Contributed to Others’ Work
+#### 2.2 Contribution to Others’ Work
 
 - **How the individual enabled the success of others:** e.g., mentoring, supporting partners, resolving blockers, sharing best practices.
 - **Describe the partnerships:** successes or challenges, and what was learned.
 - **Level 64 lens:** Highlight influence beyond the immediate team, support for cross-team/org-wide success.
 
-#### 2.3 Built on Others’ Work
+#### 2.3 Building on Others’ Work
 
 - **How the individual leveraged the work of others:** e.g., integrating platforms, building on best practices, collaborating on shared goals.
 - **Describe the partnerships:** successes or challenges, and how this enabled greater impact or efficiency.
@@ -103,6 +105,11 @@ Generate a structured, comprehensive ‘Rewards’ slide for a Senior PM (Level 
 - “How did you ensure measurable business or customer impact?”
 - “Where did you go above and beyond what’s typical for your level?”
 - “Were there any areas where you could have driven more impact? What would you do differently next time?”
+
+---
+
+**Special Note for the Agent:**  
+*Always include all three sub-sections under “Demonstrated Impact” (Individual Accomplishments, Contribution to Others’ Work, Building on Others’ Work), even if the user provides limited input. If information is missing, prompt the user for more details or note where additional input is needed.*
 
 ---
 
